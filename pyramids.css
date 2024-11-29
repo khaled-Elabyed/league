@@ -1,0 +1,19 @@
+*{margin: 0%;
+  padding: 0%;}
+.d{ 
+    position: absolute;top: 0px;
+    width: 100%;
+    padding:  25px 0px;
+    background-color:steelblue;}
+.h{
+    text-align: center;}
+.i{
+    width: 350px;
+    position: absolute;top: 90px;left: 480px;}
+
+    .v{position: absolute;top: 550px;left: 320px;}
+
+.ddd{
+    position: absolute;top: 1150px;}
+li{margin: 25px; }
+.p{font-size: 40px; margin: 45px;}

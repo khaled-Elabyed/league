@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.d{
+    width: 1210px;
+   position:absolute;top: 0px;
+   padding: 45px;
+   background-color: blue;
+   align-items: center;
+   color: darkgray;
+}
+.A{width: 250px;
+    position: absolute;top: 150px; left: 530px;}
+.h11{position: absolute; left: 550px; }
+.i1{width: 250px; position: absolute; left: 530px;
+    top: 180px;}
+.video1{position: absolute;top: 630px; left: 410px;}
+.player{position: absolute;top: 1100px;}
+.p{font-size: 35px ; position: absolute;top: 1050px ;}
+img{width: 50px;  position: absolute; left: 200px;}
